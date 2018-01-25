@@ -73,6 +73,7 @@ Work Studies<br>
 * Worked as student technology staff at Luther's technology help desk to software related computer problems for students, faculty and staff. Provided remote support via telephone line.(January 2013 - March 2015)
 * Tutored Calculus II and Principle of Biology. Ensured students understood concepts and their application. (September 2013-December 2014)
 * Worked early morning shifts as a student custodian to clean classrooms and building with environment friendly products and maintained optimum hygiene standard. (August 2012 - January 2013)
+---
 
 Computer Skills
 ---------------
@@ -81,6 +82,7 @@ Computer Skills
 |-----------------------|----------------|-----------------|
 |<b>Proficient</b>: Java, Python<br> <b>Prior Knowledge</b>: JavaScript, PHP, Android,C++,Swift<br> <b>Learning</b>: Raspberry Pi, F#, React Native| Git, Tableau, Selenium WebDriver, PostgresSQL | Django, Django REST, Ruby on Rails
 
+---
 
 Courses
 --------
@@ -88,6 +90,7 @@ Courses
 |Foundations| Systems| Application|Networks|
 |-----------|--------|------------|--------|
 |Design and Analysis of Algorithms | Formal Methods in Software Engineering | Fundamental of Software Engineering, Software Engineering Languages and Tools, Mobile Computing, Information Visualization, Statistical Learning, Artificial Intelligence| Intro to Networks and its Application, Internet/Security and Privacy 
+---
 
 Collegiate Activities
 ---------------------
@@ -97,18 +100,22 @@ Collegiate Activities
 |Association for Computing Machinery (ACM) - Member| August 2016 - present|
 |Midest Big Data Hackathon - Participant | 2016, 2017|
 
+---
+
 Honors and Awards
 -----------------
 |Honors and Awards | Year|
 |------------------|-----|
-|Grace Hopper Conference Student Scholar| 2017|
+|Grace Hopper Conference Student Scholar (Pivotal Ventures)| 2017|
 |Iowa Regional Scholar Award | 2016 - 2017|
 |Pi Mu Epsilon (National Math Honor Society) | 2015|
 |Shely Davis Scholarship | 2012 - 2016| 
 
 
-
-
+---
+>Human Languages(Proficient): Nepali, Hindi, English <br>
+><dichha-rai@uiowa.edu> | +01(563) --- ---- | 2- year old<br>
+>1000 W Benton Street, Apt E---, Iowa City, IA, US. 
 
 
 

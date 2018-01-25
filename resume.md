@@ -3,7 +3,7 @@ Dichha Rai
 
 ---
 
->Dichha is actively seeking for full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunties from all size of comapnies. She would prefer to work in coastal areas.<br>
+>Dichha is actively seeking for a full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunties from all size of comapnies and prefers to work in US coastal areas.<br>
 Her github respository is [https://www.github.com/dichha](https://www.github.com/dichha)
 
 
@@ -24,7 +24,7 @@ Experience
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
 
 Software Engineering project
-* Developing a mobile application using React Native for the university's gymansiums to track business of different equipment and areas, finding gym buddy and knowledge base of gymanisum equipment. 
+* Developing a mobile application using React Native for the university's gymansiums to track availability of different equipment and areas, finding gym buddy and knowledge base of gymanisum equipment. 
 
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
 Graduate Teaching Assistant; Computer Science Department <br>

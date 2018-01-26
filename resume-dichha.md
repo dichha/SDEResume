@@ -3,10 +3,7 @@ Dichha Rai
 
 ---
 
->Dichha is actively seeking for a full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunties from all size of comapnies and prefers to work in US coastal areas.<br>
-Her github respository is [https://www.github.com/dichha](https://www.github.com/dichha)
-
-
+>Dichha is actively seeking for a full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunties from all sizes of comapnies and prefers to work in US coastal areas. Her github respository is [https://www.github.com/dichha](https://www.github.com/dichha)
 
 ---
 
@@ -20,10 +17,9 @@ Education
 
 Experience
 ----------
-
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
+Software Engineering project<br>
 
-Software Engineering project
 * Developing a mobile application using React Native for the university's gymansiums to track availability of different equipment and areas, finding gym buddy and knowledge base of gymanisum equipment. 
 
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
@@ -52,7 +48,7 @@ Class Projects<br>
 * Built a web application [TotalWeather](http://totalweather.herokuapp.com/) using Ruby on Rails framework. Used agile development methodology with sprints of 2 weeks in a team of 5 members. 
 * Built an android [application](https://github.com/dichha/mobile_computing)  that changes music tempo with user's movement speed. Built in android's devices such as accelerometer and gyroscope were used for sensing movement type. 
 * Built a [simple](https://github.com/dichha/Intro-to-networks) chat client and a server that serves static and dynamic contents.
-* Wrote scripts to track online [trackers](https://github.com/dichha/https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Projects%20II/scripts) in a day (November 5th, 2016) of worth of tweets. 
+* Wrote scripts to track online [trackers](https://github.com/dichha/https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Projects%20II/scripts) in a day (November 5th, 2016) worth of tweets. 
 
 <p style="text-align:left;margin:0; padding:0"><b>Luther College</b>; Decorah, IA <span style="float:right">September 2015 - May 2016</span></p>
 Senior Capstone Project<br>
@@ -71,7 +67,7 @@ Work Studies<br>
 
 * Worked with a Religion and Philosophy department faculty member to design and develop an interactive website focused on promoting and sustaining meaningful social change. Used WordPress as Content Management System and BuddyPress and bbPress for forum. Wrote Python shell script for extracting traffic to the site. (November 2015 - May 2016)
 * Worked as student technology staff at Luther's technology help desk to software related computer problems for students, faculty and staff. Provided remote support via telephone line.(January 2013 - March 2015)
-* Tutored Calculus II and Principle of Biology. Ensured students understood concepts and their application. (September 2013-December 2014)
+* Tutored Calculus II and Principle of Biology. Ensured students understood concepts and their application. (September 2013 - December 2014)
 * Worked early morning shifts as a student custodian to clean classrooms and building with environment friendly products and maintained optimum hygiene standard. (August 2012 - January 2013)
 ---
 
@@ -92,30 +88,16 @@ Courses
 |Design and Analysis of Algorithms | Formal Methods in Software Engineering | Fundamental of Software Engineering, Software Engineering Languages and Tools, Mobile Computing, Information Visualization, Statistical Learning, Artificial Intelligence| Intro to Networks and its Application, Internet/Security and Privacy 
 ---
 
-Collegiate Activities
+Awards and Collegiate Activities
 ---------------------
-|Acivities|Year|
-|---------|----|
-|Women in Computing Sciences (WiCS) - Web Master| August 2017 - present|
-|Association for Computing Machinery (ACM) - Member| August 2016 - present|
-|Midest Big Data Hackathon - Participant | 2016, 2017|
-
+|Awards | Year|Acivities|Year|
+|-------|-----|---------|----|
+|Grace Hopper Conference Student Scholar (Pivotal Ventures)| 2017|Women in Computing Sciences (WiCS) - Web Master| August 2017 - present|
+|Iowa Regional Scholar Award | 2016 - 2017|Association for Computing Machinery (ACM) - Member| August 2016 - present|
+|Pi Mu Epsilon (National Math Honor Society) | 2015|Midest Big Data Hackathon - Participant | 2016, 2017|
+|Shely Davis Scholarship | 2012 - 2016|Luther Entrepreneurship Club - CMO| 2015-2016|
 ---
 
-Honors and Awards
------------------
-|Honors and Awards | Year|
-|------------------|-----|
-|Grace Hopper Conference Student Scholar (Pivotal Ventures)| 2017|
-|Iowa Regional Scholar Award | 2016 - 2017|
-|Pi Mu Epsilon (National Math Honor Society) | 2015|
-|Shely Davis Scholarship | 2012 - 2016| 
-
-
----
->Human Languages(Proficient): Nepali, Hindi, English <br>
-><dichha-rai@uiowa.edu> | +01(563) --- ---- | 2- year old<br>
+>Natural Languages (Proficient): Nepali, Hindi, English <br>
+><dichha-rai@uiowa.edu> | +01(563) --- --- | 24 years old<br>
 >1000 W Benton Street, Apt E---, Iowa City, IA, US. 
-
-
-

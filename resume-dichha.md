@@ -1,11 +1,11 @@
 Dichha Rai
 ==========
-<dichha-rai@uiowa.edu> | +01(563) xxx xxx <br>
-1xxx W Benton Street, Apt Exxx, Iowa City, IA.
+<dichha-rai@uiowa.edu> | +01(563) 277 7765 <br>
+1000 W Benton Street, Apt Exxx, Iowa City, IA.
 
 ---
 
->Dichha is actively seeking for a full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunties of all company sizes and prefers to work in US coastal areas. Her github respository is [https://www.github.com/dichha](https://www.github.com/dichha)
+>Dichha is actively seeking for a full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunties of all company sizes and can relocate. Her github respository is [https://www.github.com/dichha](https://www.github.com/dichha)
 
 ---
 
@@ -20,7 +20,7 @@ Experience
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
 Software Engineering project; Computer Science/Engineering Department<br>
 
-* Developing a mobile application using React Native for the University's gymansiums to track availability of different equipment and areas, finding gym buddy, and knowledge base of gymanisum equipment. 
+* Developing a mobile application using React Native for the University's gymanasiums to track availability of different equipment and areas, finding gym buddy, and knowledge base of gymanasium equipment. 
 
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
 Graduate Teaching Assistant; Computer Science Department <br>
@@ -66,8 +66,8 @@ Summer Intern
 <p style="text-align:left;margin:0; padding:0"><b>Luther College</b>; Decorah, IA <span style="float:right">August 2012 - May 2016</span></p>
 Work-Studies<br>
 
-* Worked with a Religion and Philosophy department faculty member to design and develop an interactive website focused on promoting and sustaining meaningful social change. Used WordPress as Content Management System and BuddyPress and bbPress for forum. Wrote Python shell script for extracting traffic to the site. 
-* Worked as student technology staff at Luther's technology help desk to software related computer problems for students, faculty and staff. Provided remote support via telephone line.
+* Facilitated a Religion and Philosophy department faculty member to design and develop an interactive website focused on promoting and sustaining meaningful social change. Used WordPress as Content Management System and BuddyPress and bbPress for forum. Wrote Python shell script for extracting traffic to the site. 
+* Worked as a student technology staff at Luther's technology help desk to software related computer problems for students, faculty and staff. Provided remote support via telephone line.
 * Tutored Calculus II and Principle of Biology. Ensured students understood concepts and their application.
 ---
 

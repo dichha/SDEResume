@@ -1,7 +1,7 @@
 Dichha Rai
 ==========
 <dichha-rai@uiowa.edu> | +01(563) XXX XXXX <br>
-1XXX W Benton Street, Apt Exxx, Iowa City, IA.
+1XXX W Benton Street, Apt E115, Iowa City, IA.
 
 ---
 
@@ -20,7 +20,7 @@ Experience
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
 Software Engineering project; Computer Science/Engineering Department<br>
 
-* Developing a mobile application using React Native for the University's gymanasiums to track availability of different equipment and areas, finding gym buddy, and knowledge base of gymanasium equipment. 
+* Developing a mobile application Herkyles using React Native for the University's gymanasiums to track availability of different equipment and areas, finding gym buddy, and knowledge base of gymanasium equipment. 
 
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">January 2018 - present</span></p>
 Graduate Teaching Assistant; Computer Science Department <br>
@@ -35,13 +35,13 @@ Reaserach Assistant; IIHR Hydroscience and Engineering
 * Debugged a highly coupled reserach-oriented software project mainly by reverse engineering. 
 
 <p style="text-align:left;margin:0; padding:0"><b>The University of Iowa</b>; Iowa City, IA <span style="float:right">August 2016 - December 2017</span></p>
-Class Projects<br>
+Class Projects and Workshop<br>
 
 * Developed a web application [TotalWeather](http://totalweather.herokuapp.com/) using Ruby on Rails framework. Used agile development methodology with sprint of 2 weeks in a team of 5 members. 
 * Made an android [application](https://github.com/dichha/mobile_computing)  that changes music tempo with user's movement speed. Android's built-in sensors  accelerometer and gyroscope were used for computing movement type. 
 * Built a [simple](https://github.com/dichha/Intro-to-networks) chat client, and a server that serves static and dynamic contents.
 * Wrote scripts to track online [trackers](https://github.com/dichha/https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Projects%20II/scripts) mentioning two US presidential candidates in a day (November 5th, 2016) worth of tweets. 
-
+* Created [mobile applications](https://github.com/dichha/CSwithAndroid) during 2 month long android workshops. 
 <p style="text-align:left;margin:0; padding:0"><b>The Signal Center</b>; Coralville, IA <span style="float:right">May 2017 - July 2017</span></p>
 Summer Intern<br>
 
@@ -94,7 +94,7 @@ Awards and Collegiate Activities
 |Grace Hopper Conference Student Scholar (Pivotal Ventures)| 2017|Women in Computing Sciences (WiCS) - Web Master| August 2017 - present|
 |Iowa Regional Scholar Award | 2016 - 2017|Association for Computing Machinery (ACM) - Member| August 2016 - present|
 |Pi Mu Epsilon (National Math Honor Society) | 2015|Midwest Big Data Hackathon - Participant | 2016, 2017|
-|Shely Davis Scholarship | 2012 - 2016|Luther Entrepreneurship Club - Chief Marketing Officer | 2015-2016|
+|Shelby Davis Scholarship | 2012 - 2016|Luther Entrepreneurship Club - Chief Marketing Officer | 2015-2016|
 ---
 
 >Natural Languages (Proficient): Nepali, Hindi, English <br>

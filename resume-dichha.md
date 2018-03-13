@@ -54,7 +54,7 @@ The Signal Center; Coralville, IA<br>
 <p style="text-align:left;margin:0; padding:0"><b>Senior Capstone Project</b> <span style="float:right">September 2015 - May 2016</span></p>
 Luther College; Decorah, IA<br>
 
-* Developed a [web application](https://github.com/dichha/NorseTrip) using Django framework designed to be Luther's version of TripAdvisor for it's Center for Global Learning Department which oversees study abroad program. 
+* Developed a web application [NorseTrip](https://github.com/dichha/NorseTrip) using Django framework designed to be Luther's version of TripAdvisor for it's Center for Global Learning Department which oversees study abroad program. 
 * Took responsibility as a team leader to increase efficiency of the group and deliver the product on time. 
 
 <p style="text-align:left;margin:0; padding:0"><b>Web Developer</b> <span style="float:right">June 2014 - July 2014</span></p>

@@ -1,7 +1,7 @@
 Dichha Rai
 ==========
-<dichha-rai@uiowa.edu> | +01(563) 277 7765 <br>
-1000 W Benton Street, Apt E115, Iowa City, IA.
+<dichha-rai@uiowa.edu> | +01(563) xxx xxxx <br>
+1000 W Benton Street, Apt xxxx, Iowa City, IA.
 
 ---
 

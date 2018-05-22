@@ -89,10 +89,10 @@ Courses
 
 Awards and Collegiate Activities
 ---------------------
-|Awards | Year| Collegiate Acivities|Year|
+|Awards | Year| Collegiate Activities|Year|
 |-------|-----|---------|----|
-|Grace Hopper Conference Student Scholar (Pivotal Ventures)| 2017|Women in Computing Sciences (WiCS) - Web Master| August 2017 - present|
-|Iowa Regional Scholar Award | 2016 - 2017|Association for Computing Machinery (ACM) - Member| August 2016 - present|
+|Grace Hopper Conference Student Scholar (Pivotal Ventures)| 2017|Women in Computing Sciences (WiCS) - Web Master| August 2017 - May 2018|
+|Iowa Regional Scholar Award | 2016 - 2017|Association for Computing Machinery (ACM) - Member| August 2016 - May 2018|
 |Pi Mu Epsilon (National Math Honor Society) | 2015|Midwest Big Data Hackathon - Participant | 2016, 2017|
 |Shelby Davis Scholarship | 2012 - 2016|Luther Entrepreneurship Club - Chief Marketing Officer | 2015-2016|
 ---

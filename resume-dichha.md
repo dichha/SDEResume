@@ -1,11 +1,11 @@
 Dichha Rai
 ==========
-<dichha-rai@uiowa.edu> | +01(563) 277 7765 <br>
-1000 W Benton Street, Apt E115, Iowa City, IA.
+<dichha.chamling@gmail.com> | +01(563) 203 xxxx <br>
+xxx Rio Robles E Unit, 424 San Jose, CA.
 
 ---
 
->Dichha is actively seeking for a full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunties of all company sizes and can relocate. Her github respository is [https://www.github.com/dichha](https://www.github.com/dichha)
+>Dichha is actively looking for a full time software development engineering position. She is motivated, curious and a life-long learner who loves to solve problems through code. She is open to opportunities of all company sizes and can relocate. Her github respository is [https://www.github.com/dichha](https://www.github.com/dichha)
 
 ---
 
@@ -20,18 +20,18 @@ Experience
 <p style="text-align:left;margin:0; padding:0"><b>Herkyles - Software Engineering Project</b><span style="float:right">January 2018 - present</span></p>
 The University of Iowa, Iowa City, IA<br>
 
-* Developing a mobile application Herkyles using React Native for the University's gymanasiums to track availability of different equipment and areas, finding gym buddy, and knowledge base of gymanasium equipment. 
+* Developed a mobile application [Herkyles](https://youtu.be/NjGXzZGjf1A) using React Native for the University's gymanasiums to track availability of different equipment and areas and knowledge base of gymanasium equipment. 
 
 <p style="text-align:left;margin:0; padding:0"><b>Principles of Computing - Graduate Teaching Assistant</b><span style="float:right">January 2018 - present</span></p>
 The University of Iowa; Iowa City, IA<br>
 
-* Hold lab and office hours to enhance understanding of classroom materials to a class of 145+ students for Principles of Computing class. 
-* Grade homeworks, quizzes and exams.
+* Held lab and office hours to enhance understanding of classroom materials to a class of 145+ students for Principles of Computing class.
+* Graded homeworks.
 
-<p style="text-align:left;margin:0; padding:0"><b>Dynamics of Natural and Human Systems - Reaserach Assistant</b><span style="float:right">August 2017 - December 2017</span></p> 
+<p style="text-align:left;margin:0; padding:0"><b>Dynamics of Natural and Human Systems - Research Assistant</b><span style="float:right">August 2017 - December 2017</span></p> 
 IIHR Hydroscience and Engineering; Iowa City, IA 
 
-* Structured manual collection of ~7000 data points to a complex database schema, added them to a database and rendered them on geo-formation web application.  
+* Structured manual collection of ~7000 data points to a complex database schema, added them to a database and rendered them on geo-formation web application.
 * Debugged a highly coupled research-oriented software project mainly by reverse engineering. 
 
 <p style="text-align:left;margin:0; padding:0"><b>Class Projects and Workshop</b><span style="float:right">August 2016 - December 2017</span></p>
@@ -54,14 +54,14 @@ The Signal Center; Coralville, IA<br>
 <p style="text-align:left;margin:0; padding:0"><b>NorseTrip - Senior Capstone Project</b> <span style="float:right">September 2015 - May 2016</span></p>
 Luther College; Decorah, IA<br>
 
-* Developed a web application [NorseTrip](https://github.com/dichha/NorseTrip) using Django framework designed to be Luther's version of TripAdvisor for it's Center for Global Learning Department which oversees study abroad program. 
+* Developed a web application [NorseTrip](https://github.com/dichha/NorseTrip) using Django framework designed to be Luther's version of TripAdvisor for it's Center for Global Learning Department which oversees study abroad program.
 * Took responsibility as a team leader to increase efficiency of the group and deliver the product on time. 
 
 <p style="text-align:left;margin:0; padding:0"><b>Web Developer - Intern </b> <span style="float:right">June 2014 - July 2014</span></p>
 United World College-USA; Montezuma, NM
 
-* Built a web application for UWC(United World College) alumni to connect, crowd-source and co-create among its 50,000 alumni. 
-* Used different developing tools such as PHP, MySQL, jQuery, Bootstrap in building the application. 
+* Built a web application for UWC(United World College) alumni to connect, crowd-source and co-create among its 50,000 alumni.
+* Used different developing tools such as PHP, MySQL, jQuery, Bootstrap in building the application.
 
 <p style="text-align:left;margin:0; padding:0"><b>Work-Studies</b><span style="float:right">August 2012 - May 2016</span></p>
 Luther College; Decorah, IA<br>

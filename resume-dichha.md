@@ -11,7 +11,7 @@ xxx Rio Robles E Unit, 424 San Jose, CA.
 
 Education
 ---------
-**Master of Computer Science(MCS)-Software Engineering Subtrack**; The University of Iowa (Iowa City, IA)<span style="float:right">August 2016 - May 2018</span>
+**Master of Computer Science(MCS) with Software Engineering Subtrack**; The University of Iowa (Iowa City, IA)<span style="float:right">August 2016 - May 2018</span>
 
 **Bachelor of Arts(BA), Major: Computer Science, Minor: Mathematics**; Luther College (Decorah, IA)<span style="float:right">August 2012 - May 2016</span>
 

@@ -17,10 +17,10 @@ Education
 
 Experience
 ----------
-<p style="text-align:left;margin:0; padding:0"><b>Herkyles - Software Engineering Project</b><span style="float:right">January 2018 - present</span></p>
+<p style="text-align:left;margin:0; padding:0"><b>Herkyles - Software Engineering Project</b><span style="float:right">January 2018 - May 2018</span></p>
 The University of Iowa, Iowa City, IA<br>
 
-* Developed a mobile application [Herkyles](https://youtu.be/NjGXzZGjf1A) using React Native for the University's gymanasiums to track availability of different equipment and areas and knowledge base of gymanasium equipment. 
+* Developed a mobile application [Herkyles](https://youtu.be/NjGXzZGjf1A) using React Native for the University's gymanasiums to track availability of different equipment and areas and knowledge base of gymanasium equipment.
 
 <p style="text-align:left;margin:0; padding:0"><b>Principles of Computing - Graduate Teaching Assistant</b><span style="float:right">January 2018 - present</span></p>
 The University of Iowa; Iowa City, IA<br>
@@ -29,7 +29,7 @@ The University of Iowa; Iowa City, IA<br>
 * Graded homeworks.
 
 <p style="text-align:left;margin:0; padding:0"><b>Dynamics of Natural and Human Systems - Research Assistant</b><span style="float:right">August 2017 - December 2017</span></p> 
-IIHR Hydroscience and Engineering; Iowa City, IA 
+IIHR Hydroscience and Engineering; Iowa City, IA
 
 * Structured manual collection of ~7000 data points to a complex database schema, added them to a database and rendered them on geo-formation web application.
 * Debugged a highly coupled research-oriented software project mainly by reverse engineering. 
@@ -37,11 +37,11 @@ IIHR Hydroscience and Engineering; Iowa City, IA
 <p style="text-align:left;margin:0; padding:0"><b>Class Projects and Workshop</b><span style="float:right">August 2016 - December 2017</span></p>
 The University of Iowa; Iowa City, IA<br>
 
-* Developed a web application [TotalWeather](http://totalweather.herokuapp.com/) using Ruby on Rails framework. Used agile development methodology with sprint of 2 weeks in a team of 5 members. 
-* Made an android [application](https://github.com/dichha/mobile_computing)  that changes music tempo with user's movement speed. Android's built-in sensors  accelerometer and gyroscope were used for computing movement type. 
+* Developed a web application [TotalWeather](http://totalweather.herokuapp.com/) using Ruby on Rails framework. Used agile development methodology with sprint of 2 weeks in a team of 5 members.
+* Made an android [application](https://github.com/dichha/mobile_computing)  that changes music tempo with user's movement speed. Android's built-in sensors  accelerometer and gyroscope were used for computing movement type.
 * Built a [simple](https://github.com/dichha/Intro-to-networks) chat client, and a server that serves static and dynamic contents.
-* Wrote scripts to track online [trackers](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Projects%20II/scripts) mentioning two US presidential candidates in a day (November 5th, 2016) worth of tweets. 
-* Created [mobile applications](https://github.com/dichha/CSwithAndroid) during 2 month long android workshops. 
+* Wrote scripts to track online [trackers](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://drive.google.com/file/d/1LiMcl6Uo7MTRm7UdO3pGfRHfRLwacvjX/view?usp=sharing) mentioning two US presidential candidates in a day (November 5th, 2016) worth of tweets. 
+* Created [mobile applications](https://github.com/dichha/CSwithAndroid) during 2 month long android workshops.
 
 <p style="text-align:left;margin:0; padding:0"><b>Software Developer - Intern </b><span style="float:right">May 2017 - July 2017</span></p>
 The Signal Center; Coralville, IA<br>
@@ -54,7 +54,7 @@ The Signal Center; Coralville, IA<br>
 Luther College; Decorah, IA<br>
 
 * Developed a web application [NorseTrip](https://github.com/dichha/NorseTrip) using Django framework designed to be Luther's version of TripAdvisor for it's Center for Global Learning Department which oversees study abroad program.
-* Took responsibility as a team leader to increase efficiency of the group and deliver the product on time. 
+* Took responsibility as a team leader to increase efficiency of the group and deliver the product on time.
 
 <p style="text-align:left;margin:0; padding:0"><b>Web Developer - Intern </b> <span style="float:right">June 2014 - July 2014</span></p>
 United World College-USA; Montezuma, NM

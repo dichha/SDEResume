@@ -40,7 +40,7 @@ The University of Iowa; Iowa City, IA<br>
 * Developed a web application [TotalWeather](http://totalweather.herokuapp.com/) using Ruby on Rails framework. Used agile development methodology with sprint of 2 weeks in a team of 5 members. 
 * Made an android [application](https://github.com/dichha/mobile_computing)  that changes music tempo with user's movement speed. Android's built-in sensors  accelerometer and gyroscope were used for computing movement type. 
 * Built a [simple](https://github.com/dichha/Intro-to-networks) chat client, and a server that serves static and dynamic contents.
-* Wrote scripts to track online [trackers](https://github.com/dichha/https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Projects%20II/scripts) mentioning two US presidential candidates in a day (November 5th, 2016) worth of tweets. 
+* Wrote scripts to track online [trackers](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Projects%20II/scripts) mentioning two US presidential candidates in a day (November 5th, 2016) worth of tweets. 
 * Created [mobile applications](https://github.com/dichha/CSwithAndroid) during 2 month long android workshops. 
 
 <p style="text-align:left;margin:0; padding:0"><b>Software Developer - Intern </b><span style="float:right">May 2017 - July 2017</span></p>

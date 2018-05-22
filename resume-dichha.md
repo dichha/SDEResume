@@ -42,15 +42,14 @@ The University of Iowa; Iowa City, IA<br>
 * Built a [simple](https://github.com/dichha/Intro-to-networks) chat client, and a server that serves static and dynamic contents.
 * Wrote scripts to track online [trackers](https://github.com/dichha/https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Project1/scripts) in Alexa's top 500 websites. Analysed [short URLs](https://github.com/dichha/NetworkSecurityPrivacy/tree/master/Projects%20II/scripts) mentioning two US presidential candidates in a day (November 5th, 2016) worth of tweets. 
 * Created [mobile applications](https://github.com/dichha/CSwithAndroid) during 2 month long android workshops. 
+
 <p style="text-align:left;margin:0; padding:0"><b>Software Developer - Intern </b><span style="float:right">May 2017 - July 2017</span></p>
 The Signal Center; Coralville, IA<br>
 
 * Built new features - player's match history and step statistics to help players participating in virtual races to track their progress for an ongoing project. 
 * Wrote unit test for the features built and debugged functionalities. 
 * Reviewed code to find logical, implementation, and requirement errors before the change is merged upstream. 
-<br>
-<br>
-<br>
+
 <p style="text-align:left;margin:0; padding:0"><b>NorseTrip - Senior Capstone Project</b> <span style="float:right">September 2015 - May 2016</span></p>
 Luther College; Decorah, IA<br>
 
